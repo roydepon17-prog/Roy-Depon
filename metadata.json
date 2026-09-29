@@ -1,0 +1,7 @@
+{
+  "name": "O'Guia Chocolates & DAD's Farm",
+  "description": "Artisanal Single-Estate Philippine Terroir Tree-to-Bar Chocolate from Maayon, Capiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
